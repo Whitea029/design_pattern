@@ -20,8 +20,7 @@ public class CitationTest {
         Citation citation1 = (Citation) ois.readObject();
         ois.close();
 
-
-
+        
     }
 
 }
